@@ -263,11 +263,11 @@
 
 - **분류모델 평가지표**
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA5MjBfMzAg%2FMDAxNzI2ODMxMTYxNjA1.qPxCTU6UyqvNTEPqAo4E-OsGUN8dt2GRC6LwuM-ggIsg.ASoM95eaz_7oLe6rt4wLNf4Wd2U6jPmt11WGtDEPadgg.PNG%2Fimage.png&type=sc960_832" width="500" height="500"/>
+
   - F-1 score
-  $$ 2 \times \div{Precision*recall}{Precision+Recall} $$
+  $$2\times \frac{Precision*recall}{Precision+Recall} $$
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT76dlXwP5UPjWeD3C9FspNQvaj-1z3pVczNA&s"/>
 
-
-<span style='background-color: #fff5b1'> 글씨글씨 </span>
 
 
