@@ -1,0 +1,20 @@
+> 1과목 - 데이터 이해
+- 암묵지, 형식지 간 상호작용
+  1) 공통화: 암묵지를 다른 사람에게 알려줌
+  2) 표출화: 암묵지 지식을 메뉴얼/문서로 전환
+  3) 연결화: 교재, 메뉴얼에 새로운 지식 추가
+  4) 내면화: 교재, 메뉴얼에서 다른 사람의 암묵지를 터득
+
+- 기업 활용 데이터베이스
+  - OLTP(Online Transaction Processing): 데이터를 거래단위로 수시로 갱신
+  - OLAP(Online Analytical Processing): 다차원 데이터를 대화식으로 분석
+  - CRM(Customer Relationship Management): 고객 관련 자료 분석, 마케팅 활용
+  - SCM(Supply Chain Management): 공급망 연결 최적화
+  - ERP(Enterprise Resource Planning): 기업 경영 자원 효율화
+  - RTE(Real Time Enterprise): 최신 정보로 빠른 의사결정 지원
+  - BI(Business Intelligence): 기업 보유 데이터 정리/분석하는 리포트 중심 도구 -> 의사결정 도움
+  - BA(Business Analysis): 통계 기반 비즈니스 통찰력
+  - KMS(Knowledge Management System): 기업의 모든 지식을 포함
+
+
+- 빅데이터 3V
