@@ -1,0 +1,28 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main() {
+    char str1[] = "123";
+    char str2[] = "3.14";
+    char str3[] = "29038412";
+    char str4[] = "1209065289628109923";
+    char str5[] = "1000xyz";
+    
+    int num1 = atoi(str1);
+    float num2 = atof(str2);
+    long num3 = atol(str3);
+    long long num4 = atoll(str4);
+    
+    printf("atoi: %d\n", num1);
+    printf("atof: %f\n", num2);
+    printf("atol: %ld\n", num3);
+    printf("atoll: %lld\n", num4);
+    
+    char* endptr;
+    long num5 = strtol(str5, &endptr, 10);
+    if (*endptr != '\0') {
+        printf("strtol: 변환 중 에러가 발생했습니다.\n");
+    } else {
+        printf("strtol: %ld\n", num5);
+    }
+    return 0;
+}
